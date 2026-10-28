@@ -154,7 +154,11 @@ Script `src/07_generate_figures.py` also generates independent reproducibility v
 
 ## Citation and archival
 
-A Zenodo DOI can be added here after the public repository release is archived.
+The reproducibility materials for this study are permanently archived on Zenodo.
+
+**Version v1.0.0 DOI:** https://doi.org/10.5281/zenodo.23720094
+
+For citation purposes, please cite the archived Zenodo release associated with the version of the repository used.
 
 ## Contact
 
